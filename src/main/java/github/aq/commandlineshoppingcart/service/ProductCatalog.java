@@ -32,7 +32,7 @@ public class ProductCatalog {
 	}
 	
 	/**
-	 * Exercise 1a - Parsing the product-data.csv data file
+	 * Parsing the product-data.csv data file
 	 * @throws FileNotFoundException in case of a problem with the csv file
 	 */
 	public void loadProducts() throws FileNotFoundException {
