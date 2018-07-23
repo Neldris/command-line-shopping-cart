@@ -48,7 +48,6 @@ public class ShoppingStore {
 
     /**
      * List the products of the catalog
-     * Exercise 1b - Listing products
      */
     public void listProducts() {
     	System.out.println("List products");
@@ -60,7 +59,6 @@ public class ShoppingStore {
 
     /**
      * Add a product to the Basket
-     * Exercise 2a - feature to add Products to the basket
      * @param productId The id of the product
      * @throws IllegalArgumentException in case the product id is not in the product catalog
      */
@@ -82,7 +80,6 @@ public class ShoppingStore {
 
     /**
      * Remove a product from the Basket
-     * Exercise 2b - feature to remove Products from the basket
      * @param productId The id of the product
      * @throws IllegalArgumentException in case the product id is not in the product catalog
      */
