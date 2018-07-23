@@ -13,7 +13,7 @@ public class Application {
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("************************************");
-        System.out.println("* Welcome to the Net-A-Porter Shop *");
+        System.out.println("* Welcome to the Shopping Store *");
         System.out.println("************************************");
         help();
 
